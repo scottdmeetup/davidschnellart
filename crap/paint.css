@@ -67,3 +67,25 @@ td {
 .right-box a {
 	text-decoration: none;
 }
+
+#footer {
+	text-align: center;
+	font-family: Tahoma;
+	background-color: #E5E5E5;	
+	color: grey;
+	height: 100px;
+	clear: both;
+}
+
+#footer ul {
+	list-style-type: none;
+}
+
+#footer li {
+	display: inline;
+}
+
+#footer a {
+	text-decoration: none;
+	color: grey;
+}
