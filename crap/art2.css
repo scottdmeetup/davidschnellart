@@ -85,3 +85,7 @@ h3 {
 	text-decoration: none;
 	color: grey;
 }
+
+.about-content {
+	width: 500px;
+}
