@@ -1,0 +1,69 @@
+.bigpicture {
+	background-image: url(bigp.jpg);
+	height: 100px;
+}
+
+.bigpicture p {
+	float: bottom;
+	font-size: 40px;
+	font-family: Lucida;
+	color: white;
+	opacity: .7;
+}
+
+.bigpicture .title {
+	margin: 0 auto 0 auto;
+}
+
+.profile {
+	float: right;
+	padding-right: 10px;
+}
+
+.topdog {
+	background-color: black;
+	opacity: .20;
+	color: white;
+	font-family: Tahoma;
+	clear: both;
+}
+
+.topdog:hover {
+	opacity: 1.0;
+}
+
+.topdog a {
+	text-decoration: none;
+	color: white;
+	padding-left: 10px;
+	font-family: Lucida;
+}
+
+h1 {
+	text-align: center;
+	font-family: Lucida;
+}
+
+table {
+	margin: 0 auto 0 auto;
+}
+
+td {
+	padding: 30px;
+	text-align: center;
+}
+
+.right-box {
+	float: right;
+	border: 1px;
+	background-color: #E6E6E6;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: Tahoma;
+	padding-bottom: 20px;
+	height: 1000px;
+}
+
+.right-box a {
+	text-decoration: none;
+}

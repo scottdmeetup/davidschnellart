@@ -1,0 +1,87 @@
+.bigpicture {
+	background-image: url(bigp.jpg);
+	height: 100px;
+}
+
+.bigpicture p {
+	float: bottom;
+	font-size: 40px;
+	font-family: Gerogia;
+	color: white;
+	opacity: .7;
+}
+
+.profile {
+	float: right;
+	padding-right: 10px;
+}
+
+.topdog {
+	background-color: black;
+	opacity: .20;
+	color: white;
+	clear: both;
+}
+
+.topdog:hover {
+	opacity: 1.0;
+}
+
+.topdog a {
+	text-decoration: none;
+	color: white;
+	padding-left: 10px;
+	font-family: Lucida;
+}
+
+h1 {
+	font-family: Tahoma;
+}
+
+h3 {
+	font-family: Tahoma;
+	font-style: italic;
+}
+
+.right-box {
+	float: right;
+	border: 1px;
+	background-color: #DBFFDB;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: Tahoma;
+	padding-bottom: 20px;
+	height: 500px;
+
+}
+
+.right-box a {
+	text-decoration: none;
+}
+
+/* .right-box li {
+	list-style-type: none;
+}
+*/
+
+#footer {
+	text-align: center;
+	font-family: Tahoma;
+	background-color: #E5E5E5;	
+	color: grey;
+	height: 100px;
+	clear: both;
+}
+
+#footer ul {
+	list-style-type: none;
+}
+
+#footer li {
+	display: inline;
+}
+
+#footer a {
+	text-decoration: none;
+	color: grey;
+}
